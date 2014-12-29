@@ -1,0 +1,14 @@
+{
+  "name": "liquid-language",
+  "version": "1.0.0",
+  "description": "A language used to replace tokens.",
+  "main": "liquid.js",
+  "author": "Jeppe Rune Mortensen <jepperm@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:YePpHa/LiquidLanguage.git"
+  },
+  "devDependencies": {
+  }
+}
